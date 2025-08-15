@@ -12,7 +12,7 @@
 </head>
 <body>  
     <img src="myimage.jpg" alt="وصف الصورة" style="max-width:300px; margin-top:20px;">
-    <h1>مرحhello habibtyةلحصثقةلصقييي!</h1>
+    <h1>hello habibty!</h1>
     <p>هذه صفحة HTML تجريبية.</p>
 </body>
     <h1>hello habibtyيي!</h1>
