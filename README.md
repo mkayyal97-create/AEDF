@@ -15,7 +15,7 @@
     <h1>مرحhello habibtyةلحصثقةلصقييي!</h1>
     <p>هذه صفحة HTML تجريبية.</p>
 </body>
-    <h1>مرحhello habibtyةلحصثقةلصقييي!</h1>
+    <h1>hello habibtyيي!</h1>
     <img src="wallpaper.jpg" alt="خلفية سطح المكتب" style="max-width:400px; margin: 20px auto; display:block; border-radius:12px; box-shadow:0 2px 8px #aaa;">
         <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80" alt="صورة افتراضية" style="max-width:400px; margin: 20px auto; display:block; border-radius:12px; box-shadow:0 2px 8px #aaa;">
     <p>هذه صفحة HTML تجريبية.</p>
